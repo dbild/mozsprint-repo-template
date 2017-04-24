@@ -1,8 +1,3 @@
-Use the Mozilla community participation guidelines below, or write you own Code of Coduct [using this exercise](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
-
----
-
-<!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
 This project respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, staff, volunteers, vendors, and anyone else involved in making this project possible.
