@@ -1,10 +1,8 @@
-# Contributing to [Project]
+# Contributing to Teen-driven inquiry and working in the open
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+Thank you for your interest in contributing to Teen-driven inquiry and working in the open :tada:! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+This project is focused on adapting and modifying [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open.
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
