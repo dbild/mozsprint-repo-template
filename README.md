@@ -1,6 +1,6 @@
-# [ Project Title ]
+# Teen-driven inquiry and working in the open
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+This project is focused on adapting and modifying Mozilla's Open Leadership Training Series for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open.
 
 [ If you have one, add your logo or an image here ]
 
