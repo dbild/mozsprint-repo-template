@@ -16,7 +16,7 @@ Thanks for your interest in contributing to [PROJECT]! There are many ways to co
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to dbild@naturemuseum.org 
 
 ## MozSprint
 
