@@ -31,7 +31,7 @@ We're doing most of our work in [this Google Drive folder](https://drive.google.
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/dbild/teen-open-leadership/issues)!
 
 ## Communication channels
 
