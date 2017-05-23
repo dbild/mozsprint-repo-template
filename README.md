@@ -1,18 +1,14 @@
 # Teen-driven inquiry and working in the open
 
-This project is focused on adapting and modifying [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open.
-
-[ If you have one, add your logo or an image here ]
-
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+This project is focused on adapting and modifying [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) (OLT) for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open.
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+We're working mostly in google docs for editing/commenting on current OLT content  (insert link to GDoc/drive)
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to Teen-driven Inquiry and Working in the Open! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
