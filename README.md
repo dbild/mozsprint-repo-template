@@ -8,7 +8,7 @@ We're working mostly in google docs for editing/commenting on current OLT conten
 
 ## Contributing
 
-Thanks for your interest in contributing to Teen-driven Inquiry and Working in the Open! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to **Teen-driven Inquiry and Working in the Open!** There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
