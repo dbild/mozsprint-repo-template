@@ -4,11 +4,7 @@ Thank you for your interest in contributing to Teen-driven inquiry and working i
 
 This project is focused on adapting and modifying [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
+This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -18,7 +14,7 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [dbild@naturemuseum.org].
 
 ## What we're working on
 
