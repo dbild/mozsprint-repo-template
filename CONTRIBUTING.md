@@ -1,10 +1,10 @@
 # Contributing to Teen-driven inquiry and working in the open
 
-Thank you for your interest in contributing to Teen-driven inquiry and working in the open :tada:! 
+Thank you for your interest in contributing to **Teen-driven inquiry and working in the open** :tada:! 
 
 This project is focused on adapting and modifying [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open.
 
-This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+This documents is a set of guidelines for contributing to **Teen-driven inquiry and working in the open**. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
