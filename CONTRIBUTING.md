@@ -14,7 +14,7 @@ This documents is a set of guidelines for contributing to [Project] on GitHub. T
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [dbild@naturemuseum.org].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to dbild@naturemuseum.org.
 
 ## What we're working on
 
