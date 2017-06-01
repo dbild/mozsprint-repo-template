@@ -22,7 +22,7 @@ We're hoping to achieve 3 main objectives during the Global Sprint:
 
 1. [Teen-facing description of working in the open (be able to convey what working in the open *means* and the benefits)](https://github.com/dbild/teen-open-leadership/issues/4) 
 2. [Annotated inventory of accessible online tools for collaboration and documentation that teens can utilize for open projects](https://github.com/dbild/teen-open-leadership/issues/2)
-3. [Modifying sections of OLT series for teen audiences](https://drive.google.com/drive/folders/0B4_58xQkngljbVYwbDJHcEpjbXM?usp=sharing) 
+3. [Modifying sections of OLT series for teen audiences](https://github.com/dbild/teen-open-leadership/issues/5) 
 
 
 ## How to submit changes
