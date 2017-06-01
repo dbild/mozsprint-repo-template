@@ -27,7 +27,7 @@ We're hoping to achieve 3 main objectives during the Global Sprint:
 
 ## How to submit changes
 
-We're doing most of our work in [this Google Drive folder](https://drive.google.com/drive/folders/0B4_58xQkngljYnhfOUZ2dUludUk?usp=sharing) but you can also use this Github repo to sumbit issues and comment
+We're doing most of our work in [this Google Drive folder](https://drive.google.com/drive/folders/0B4_58xQkngljYnhfOUZ2dUludUk?usp=sharing) but you can also use this Github repo to [sumbit issues and comment](https://github.com/dbild/teen-open-leadership/issues) 
 
 ## How to report bugs
 
