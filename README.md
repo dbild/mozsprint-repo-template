@@ -1,6 +1,6 @@
 # Teen-driven inquiry and working in the open
 
-This project is focused on adapting and modifying [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) (OLT) for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open. For more information see the [open canvas for this project](https://docs.google.com/presentation/d/1WOT9X4JIWRVvhesGsMLRdRCA1VVRkAnsTs1XvCM07sU/edit?usp=sharing). 
+This project is focused on adapting and modifying [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) (OLT) for a teen audience, specifically so that teens will be better equipped to launch and carry out collaborative inquiry projects and work in the open. Our primary focus is projects that don't involve much (if any) code. For more information see the [open canvas for this project](https://docs.google.com/presentation/d/1WOT9X4JIWRVvhesGsMLRdRCA1VVRkAnsTs1XvCM07sU/edit?usp=sharing). 
 
 ## Getting Started
 
